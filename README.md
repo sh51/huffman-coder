@@ -43,8 +43,13 @@ The DNA sequence (James Watson's genome) used for testing can be downloaded [her
 More information can be found at [https://www.ics.uci.edu/~dnazip/](https://www.ics.uci.edu/~dnazip/).
 
 The original file.
+
 ![DNA](dna.png)
+
 The compressed file.
+
 ![DNA](compressed_dna.png)
+
 `diff` of the original and recovered file.
+
 ![DNA](diff_dna.png)
