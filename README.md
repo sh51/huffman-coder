@@ -17,16 +17,24 @@ Saving the tree to the compressed file incurs space overhead, and might cause th
 
 ### US Constitution
 The original file.
+
 ![usconstitution](usconstitution.png)
+
 The compressed file.
+
 ![usconstitution](compressed_usconstitution.png)
+
 `diff` of the original and recovered file.
+
 ![usconstitution](diff_usconstitution.png)
 
 ### War and Peace
 The original file.
+
 ![warandpeace](warandpeace.png)
+
 The compressed file.
+
 ![warandpeace](compressed_warandpeace.png)
 
 ### DNA sequence
