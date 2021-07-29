@@ -1,4 +1,4 @@
-## Huffman Coding
+# Huffman Coding
 
 In the `HuffmanCoder` class, `encode` and `decode` are provided as static functions. To compress/decompress a file, pass in the path of the file. For instance `encode('inputs/hello.txt')`.
 
